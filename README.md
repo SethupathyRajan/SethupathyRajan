@@ -9,7 +9,7 @@
   
 - 😎 **so-called vibe coder**
 
-- 🏃 **ik my works are great,but using github makes me feel COOL**
+- 🏃 **ik my works aren't great,but using github makes me feel COOL**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sethupathy rajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sethupathy rajan" height="30" width="40" /></a>
