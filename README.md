@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Sethupathy</h1>
-<h3 align="center">So-called vibe coder 😎 </h3>
+<h3 align="center">So-called vibe coder (All style ,no substance)😎 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sethupathyrajan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -8,13 +8,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sethupathyrajan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sethupathyrajan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" alt="coding gif" />
 
 ### 💡 About Me
 - 📫 Reach me at **rajansethupathyoffl@gmail.com**
