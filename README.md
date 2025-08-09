@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Sethupathy</h1>
-<h3 align="center">So-called vibe coder 😎 | All style ,no substance </h3>
+<h3 align="center"> vibe coder 😎 | All style ,no substance </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sethupathyrajan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
