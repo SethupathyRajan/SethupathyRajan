@@ -31,6 +31,15 @@
 </div>
 
 ---
+---
+
+### 💡 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sethupathy_r?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats">
+</p>
+
+---
 
 ### 🛠 Languages and Tools
 <div align="left">
