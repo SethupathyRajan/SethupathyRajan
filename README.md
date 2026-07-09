@@ -5,13 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sethupathyrajan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sethupathyrajan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" alt="coding gif" />
 
@@ -54,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
 
 </div>
 
