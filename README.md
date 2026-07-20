@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋! I'm Sethupathy</h1>
-<h3 align="center"> vibe coder 😎 | All style, no substance </h3>
-
-
+<h3 align="center"> vibe coder 😎  | All style, no substance </h3>
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" alt="coding gif" />
 
@@ -12,10 +10,6 @@
 - Certified Linux larper A.K.A *I use Arch btw* 🐧
 
 
-<div align="left">
-  <a href="https://linkedin.com/in/sethupathy rajan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</div>
-
-### Contribution Snake(looks cool ig)
+### My Contribution Snake(looks cool ig)
 <img src="https://raw.githubusercontent.com/SethupathyRajan/SethupathyRajan/output/snake.svg" alt="Snake animation" />
 
