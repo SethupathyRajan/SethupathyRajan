@@ -8,8 +8,3 @@
 - My works aren't perfect, but GitHub makes me feel cool
 - People think i can do project, i can't even do push-ups
 - Certified Linux larper A.K.A *I use Arch btw* 🐧
-
-
-### My Contribution Snake(looks cool ig)
-<img src="https://raw.githubusercontent.com/SethupathyRajan/SethupathyRajan/output/snake.svg" alt="Snake animation" />
-
